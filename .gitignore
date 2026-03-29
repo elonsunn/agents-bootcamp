@@ -1,1 +1,5 @@
 **/chroma_embeddings/*
+.env
+.DS_Store
+*.pyc
+__pycache__/
